@@ -13,7 +13,7 @@ import (
 	"github.com/testcontainers/testcontainers-go/wait"
 
 	"github.com/stretchr/testify/require"
-	"github.com/AdamKorcz/go-118-fuzz-build/testing"
+	"testing"
 	"github.com/usememos/memos/store"
 	"github.com/usememos/memos/store/db"
 	"github.com/usememos/memos/internal/profile"

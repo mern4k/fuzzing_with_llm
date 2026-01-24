@@ -2,8 +2,7 @@ package fuzz
 
 import (
 	"strings"
-
-	"github.com/AdamKorcz/go-118-fuzz-build/testing"
+	"testing"
 	"github.com/usememos/memos/plugin/httpgetter"
 )
 

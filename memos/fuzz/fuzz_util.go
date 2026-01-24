@@ -2,7 +2,7 @@ package fuzz
 
 import (
 
-	"github.com/AdamKorcz/go-118-fuzz-build/testing"
+	"testing"
 	"github.com/usememos/memos/internal/base"
 	"github.com/usememos/memos/internal/util"
 )
